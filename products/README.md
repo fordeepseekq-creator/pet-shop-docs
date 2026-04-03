@@ -15,7 +15,7 @@
 | Игрушка-пищалка | 350 ₽ | 
 | Лежанка утеплённая | 1 800 ₽ |
 
-[![Корм для животных](images/food.jpg)](https://example.com/food)
+[![Корм для животных](food.jpg)](https://example.com/food)
 
 ## Акция!
 

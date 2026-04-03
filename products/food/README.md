@@ -19,7 +19,7 @@
 3. Обратите внимание на состав
 4. Проконсультируйтесь с ветеринаром
 
-[![Ассортимент кормов](images/food.jpg)](https://example.com/food-assortment)
+[![Ассортимент кормов](food.jpg)](https://example.com/food-assortment)
 
 ## Рекомендации
 
